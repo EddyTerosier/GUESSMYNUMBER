@@ -1,0 +1,3 @@
+# GUESSMYNUMBER
+
+"Guess My Number" est un jeu simple dans lequel un joueur (ici l'ordinateur) choisit un nombre entier compris entre un certain intervalle (généralement 1 et 100), et un autre joueur doit essayer de deviner ce nombre en faisant des propositions. Si la proposition du second joueur est trop élevée, le premier joueur répond "c'est moins"; si elle est trop basse, il répond "c'est plus". Le second joueur continue à faire des propositions jusqu'à ce qu'il trouve le nombre correct, ou jusqu'à ce qu'il ne reste plus qu'une possibilité. Le premier joueur gagne si le second joueur ne trouve pas le nombre correct avant la fin de la partie, et le second joueur gagne s'il trouve le nombre correct avant la fin de la partie.
